@@ -1,0 +1,4 @@
+output/*
+emoji.json
+node_modules/
+*.log
